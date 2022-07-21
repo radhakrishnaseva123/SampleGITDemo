@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 448D-E336
+
+ Directory of C:\GitProject
+
+21-07-2022  23:19    <DIR>          .
+21-07-2022  23:19    <DIR>          ..
+21-07-2022  23:19               323 sample
+21-07-2022  23:19                 0 sample.txt
+               2 File(s)            323 bytes
+               2 Dir(s)  378,714,406,912 bytes free
